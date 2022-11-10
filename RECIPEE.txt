@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<h1>HOW TO MAKE BEEF STEW</h1>
+<h2>INGREDIENTS</h2>
+<oi>
+<li> 1/2 kg of meat</li>
+<li>lkg flour</li>
+<li>oil,seasoning</li>
+<li>4 tomatoes,celery,carrots and potatoes</>
+    <meta charset="UTF
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RECIPE</title>
+</head>
+<body>
+<h3>Beef stew recipe</>
+</oi>
+    <ui>
+        <li>Heat oil in a large pot over medium-high heat</li>
+        <li> Add meat, flour, onion, and garlic; cook and stir until browned, 10 to 15 minutes</li>
+        <li>Add broth, tomatoes, potatoes, celery, and carrots, then stir in Creole seasoning and basil</li>
+        <li>Bring to a simmer.</li>
+        <li>Reduce heat to maintain simmer and cook, uncovered, until potatoes are soft, meat is tender, and gravy is thick, about 1 hour </li>
+        </ui>
+        
+</body>
+</html>
+
+
+
+
